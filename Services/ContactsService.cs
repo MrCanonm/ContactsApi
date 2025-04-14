@@ -21,6 +21,8 @@ public class ContactsService : IContactsService
             Name = dto.Name,
             LastName = dto.LastName,
             Email = dto.Email,
+            PhoneNumber = dto.PhoneNumber,
+            SecondPhoneNumber = dto.SecondPhoneNumber,
             Status = true,
             CreateAt = now,
             UpdatedAt = now,

@@ -166,3 +166,4 @@ E:\Programacion\c#\contactsApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGe
 E:\Programacion\c#\contactsApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\Programacion\c#\contactsApi\bin\Debug\net9.0\DotNetEnv.dll
 E:\Programacion\c#\contactsApi\bin\Debug\net9.0\Sprache.dll
+E:\Programacion\c#\contactsApi\obj\Debug\net9.0\contactsApi.sourcelink.json
